@@ -1,0 +1,23 @@
+{
+  "name": "jjr8-website",
+  "version": "1.0.0",
+  "description": "\"# jjr8\" \r \"# jjr8\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/potchii/jjr8.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/potchii/jjr8/issues"
+  },
+  "homepage": "https://github.com/potchii/jjr8#readme",
+  "dependencies": {
+    "lightbox2": "^2.11.3"
+  }
+}
