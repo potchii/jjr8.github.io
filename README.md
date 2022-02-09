@@ -1,4 +1,4 @@
-# JJR8 Mock Website
+# JJR8 Mock Website (https://jjr8.surge.sh)
 
 A simple restaurant website that is to be sampled for a lab project.
 
